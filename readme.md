@@ -121,6 +121,17 @@
 
 - http://users.teilar.gr/~g1951d/
 - [The Online TLG Unicode Font resources](http://stephanus.tlg.uci.edu/fonts.php)
+- http://www.stoa.org/unicode/fonts/
+- http://www.doaks.org/research/byzantine/byzantine-publications/doaks-unicode-greek-guide
+- http://www.russellcottrell.com/greek/fonts.asp
+- http://insaph.kcl.ac.uk/ala2004/help/fonts.html
+- http://tyndaletech.blogspot.com/2008/01/unicode-fonts-unite-biblical-studies.html
+- http://www.tlg.uci.edu/help/UnicodeTest.html
+- http://www.tyndale.cam.ac.uk/unicode
+- http://www.bibleplaces.com/greek_fonts/
+- http://www.typegreek.com/greek.fonts/
+- https://www.bibleworks.com/fonts.html
+- https://billmounce.com/freegreekfont
 
 ## collections
 
