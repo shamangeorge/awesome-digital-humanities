@@ -120,6 +120,7 @@
 ## fonts
 
 - http://users.teilar.gr/~g1951d/
+- [The Online TLG Unicode Font resources](http://stephanus.tlg.uci.edu/fonts.php)
 
 ## collections
 
